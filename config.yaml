@@ -1,0 +1,19 @@
+telegram:
+  api: '6392489332:AAEnutUFS241Oy45onJlBcSWjpAaPEND8ZE'
+  chatid: -1002118111354
+
+
+#careful, binance API limit the number of request per minutes
+interval: 30
+
+traders:
+  - name: "TreeOfAlpha1"
+    uid: "FB23E1A8B7E2944FAAEC6219BBDF8243"
+  - name: "TreeOfAlpha2"
+    uid: "DF74DFB6CB244F8033F1D66D5AA0B171"
+  - name: "Nothingness"
+    uid: "8D27A8FA0C0A726CF01A7D11E0095577"
+  - name: "RosePremiumSignal"
+    uid: "538E78E33A3B0363FC37E393EB334103"
+  - name: "constant1"
+    uid: "FE63D6040E22611D978B73064B3A2057"
